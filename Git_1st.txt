@@ -2,4 +2,5 @@ Gitの練習をしていきます
 変更１
 git add
 git commit
-変更２
+変更2
+変更３
